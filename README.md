@@ -1,2 +1,9 @@
-# oslab1
-files needed for lab 1
+# Lab 01
+
+Name:  
+Class: COSC 4740  
+Section:
+
+How do you compile and run this program:
+
+Anything that doesn't work:
